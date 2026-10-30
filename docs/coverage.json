@@ -1,0 +1,275 @@
+{
+  "edition": "Beta 82",
+  "revision": 2,
+  "date": "2026-10-30",
+  "languages": {
+    "en": {
+      "pdf": "BeautyShot_Manual_EN.pdf",
+      "chapter_pages": {
+        "start": 4,
+        "workspace": 7,
+        "menus": 9,
+        "projects": 13,
+        "scene": 15,
+        "library": 17,
+        "channels": 19,
+        "opacity": 22,
+        "materials": 24,
+        "graph": 27,
+        "groom": 29,
+        "lights": 30,
+        "environment": 32,
+        "camera": 35,
+        "post": 38,
+        "renderers": 41,
+        "npr": 43,
+        "timeline": 47,
+        "output": 49,
+        "quality": 52,
+        "preferences": 55,
+        "troubleshooting": 57
+      },
+      "words": 16353,
+      "figures": 29
+    },
+    "pt": {
+      "pdf": "BeautyShot_Manual_PT-BR.pdf",
+      "chapter_pages": {
+        "start": 4,
+        "workspace": 7,
+        "menus": 9,
+        "projects": 13,
+        "scene": 15,
+        "library": 17,
+        "channels": 19,
+        "opacity": 22,
+        "materials": 24,
+        "graph": 27,
+        "groom": 29,
+        "lights": 30,
+        "environment": 32,
+        "camera": 35,
+        "post": 38,
+        "renderers": 41,
+        "npr": 43,
+        "timeline": 47,
+        "output": 49,
+        "quality": 52,
+        "preferences": 55,
+        "troubleshooting": 57
+      },
+      "words": 15842,
+      "figures": 29
+    }
+  },
+  "chapters": [
+    {
+      "id": "start",
+      "en": "Start here",
+      "pt": "Comece aqui",
+      "tables": 1,
+      "screenshots": [
+        "assets/workspace-material.jpg"
+      ]
+    },
+    {
+      "id": "workspace",
+      "en": "Workspace and navigation",
+      "pt": "Área de trabalho e navegação",
+      "tables": 1,
+      "screenshots": [
+        "assets/scene-panel.jpg"
+      ]
+    },
+    {
+      "id": "menus",
+      "en": "Menu reference",
+      "pt": "Referência dos menus",
+      "tables": 1,
+      "screenshots": [
+        "assets/menu-file.jpg",
+        "assets/menu-edit.jpg",
+        "assets/menu-add.jpg",
+        "assets/menu-window.jpg",
+        "assets/menu-view.jpg"
+      ]
+    },
+    {
+      "id": "projects",
+      "en": "Projects, imports and portability",
+      "pt": "Projetos, importação e portabilidade",
+      "tables": 1,
+      "screenshots": [
+        "assets/import-preferences.jpg"
+      ]
+    },
+    {
+      "id": "scene",
+      "en": "Scene, groups and transforms",
+      "pt": "Cena, grupos e transformações",
+      "tables": 1,
+      "screenshots": [
+        "assets/object-transform.jpg"
+      ]
+    },
+    {
+      "id": "library",
+      "en": "Material library and presets",
+      "pt": "Biblioteca de materiais e presets",
+      "tables": 1,
+      "screenshots": [
+        "assets/material-library.jpg"
+      ]
+    },
+    {
+      "id": "channels",
+      "en": "Texture channels and color interpretation",
+      "pt": "Canais de textura e interpretação de cor",
+      "tables": 1,
+      "screenshots": [
+        "assets/material-inputs.jpg",
+        "assets/color-picker.jpg"
+      ]
+    },
+    {
+      "id": "opacity",
+      "en": "Opacity, black pixels and glass",
+      "pt": "Opacidade, pixels pretos e vidro",
+      "tables": 1,
+      "screenshots": [
+        "assets/opacity-mode.jpg"
+      ]
+    },
+    {
+      "id": "materials",
+      "en": "Material families and advanced controls",
+      "pt": "Famílias de materiais e controles avançados",
+      "tables": 1,
+      "screenshots": [
+        "assets/procedural-controls.jpg"
+      ]
+    },
+    {
+      "id": "graph",
+      "en": "Material graph and surface painting",
+      "pt": "Grafo de materiais e pintura de superfície",
+      "tables": 1,
+      "screenshots": [
+        "assets/graph-frame.jpg"
+      ]
+    },
+    {
+      "id": "groom",
+      "en": "Groom and curve imports",
+      "pt": "Groom e importação de curvas",
+      "tables": 1,
+      "screenshots": []
+    },
+    {
+      "id": "lights",
+      "en": "Lights and lighting rigs",
+      "pt": "Luzes e rigs de iluminação",
+      "tables": 1,
+      "screenshots": [
+        "assets/lighting-rig.jpg",
+        "assets/light-ies-gobo.jpg"
+      ]
+    },
+    {
+      "id": "environment",
+      "en": "Environment, floor and effects",
+      "pt": "Ambiente, piso e efeitos",
+      "tables": 1,
+      "screenshots": [
+        "assets/environment-sky.jpg",
+        "assets/environment-background.jpg"
+      ]
+    },
+    {
+      "id": "camera",
+      "en": "Cameras, lenses and multiple views",
+      "pt": "Câmeras, lentes e múltiplas vistas",
+      "tables": 1,
+      "screenshots": [
+        "assets/camera-top-final.jpg"
+      ]
+    },
+    {
+      "id": "post",
+      "en": "Post processing and color management",
+      "pt": "Pós-processamento e gerenciamento de cor",
+      "tables": 1,
+      "screenshots": [
+        "assets/post-ao.jpg",
+        "assets/post-curves.jpg"
+      ]
+    },
+    {
+      "id": "renderers",
+      "en": "Viewport renderers and performance",
+      "pt": "Renderizadores da viewport e desempenho",
+      "tables": 1,
+      "screenshots": [
+        "assets/renderer-menu.jpg"
+      ]
+    },
+    {
+      "id": "npr",
+      "en": "NPR styles and hand-painted textures",
+      "pt": "Estilos NPR e texturas hand-painted",
+      "tables": 1,
+      "screenshots": [
+        "assets/npr-menu.jpg",
+        "assets/unlit-example.jpg"
+      ]
+    },
+    {
+      "id": "timeline",
+      "en": "Timeline and animation",
+      "pt": "Timeline e animação",
+      "tables": 1,
+      "screenshots": [
+        "assets/timeline-controls.jpg"
+      ]
+    },
+    {
+      "id": "output",
+      "en": "Render workflow and file formats",
+      "pt": "Fluxos de render e formatos de arquivo",
+      "tables": 2,
+      "screenshots": [
+        "assets/render-task.jpg"
+      ]
+    },
+    {
+      "id": "quality",
+      "en": "Offline quality, passes and camera queue",
+      "pt": "Qualidade offline, passes e fila de câmeras",
+      "tables": 2,
+      "screenshots": [
+        "assets/render-quality.jpg"
+      ]
+    },
+    {
+      "id": "preferences",
+      "en": "Preferences, shortcuts and customization",
+      "pt": "Preferências, atalhos e personalização",
+      "tables": 1,
+      "screenshots": [
+        "assets/interface-preferences.jpg"
+      ]
+    },
+    {
+      "id": "troubleshooting",
+      "en": "Troubleshooting and reporting a problem",
+      "pt": "Solução de problemas e relato de bugs",
+      "tables": 1,
+      "screenshots": []
+    }
+  ],
+  "capture": {
+    "launcher": "BeautyShot.exe",
+    "shipping_sha256": "54f6cf64386aaff76da2d712cd531081e657bf2f47759aa33e139201089b7f69",
+    "source": "Real Beta82 Windows application; normal launcher/profile; demonstration sphere. Initial isolated-profile white-preset captures excluded."
+  }
+}

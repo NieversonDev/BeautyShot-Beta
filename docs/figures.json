@@ -1,0 +1,516 @@
+[
+  {
+    "chapter": "start",
+    "src": "material-applied",
+    "file": "assets/workspace-material.jpg",
+    "en": "Beta 82 with a library material applied to the demonstration sphere. The viewport and material thumbnail show the wood-colored procedural surface.",
+    "pt": "Beta 82 com material da biblioteca aplicado à esfera de demonstração. Viewport e miniatura mostram a superfície procedural em tom de madeira.",
+    "anchor": null,
+    "width": 1600,
+    "height": 996,
+    "source_sha256": "94c7b8455f62aec4157f525bf347216e12a1cf304963bfa63dd2fce05deb463e",
+    "crop": [
+      8,
+      32,
+      1608,
+      1028
+    ]
+  },
+  {
+    "chapter": "workspace",
+    "src": "overview",
+    "file": "assets/scene-panel.jpg",
+    "en": "Scene tree: select objects, expand groups, filter entries and toggle visibility.",
+    "pt": "Árvore Scene: selecione objetos, expanda grupos, filtre itens e altere visibilidade.",
+    "anchor": null,
+    "width": 362,
+    "height": 410,
+    "source_sha256": "d5b4ba44b168a4c4826d897e23b4f8ddfe66c7a36ef99dd5bb0f3ad36dee76d1",
+    "crop": [
+      18,
+      90,
+      380,
+      500
+    ]
+  },
+  {
+    "chapter": "scene",
+    "src": "overview",
+    "file": "assets/object-transform.jpg",
+    "en": "Object inspector: turntable participation, transforms and pivot controls. Select the intended object or group before editing.",
+    "pt": "Inspector Object: participação no turntable, transformações e pivô. Selecione objeto ou grupo antes de editar.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "d5b4ba44b168a4c4826d897e23b4f8ddfe66c7a36ef99dd5bb0f3ad36dee76d1",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "menus",
+    "src": "menu-file",
+    "file": "assets/menu-file.jpg",
+    "en": "The File menu in the English interface.",
+    "pt": "Menu Arquivo na interface em inglês.",
+    "anchor": [
+      "File",
+      "Arquivo"
+    ],
+    "width": 275,
+    "height": 180,
+    "source_sha256": "59083dc68cf5f9c21477221f55e90ba62e88d67dccaafa5a5ac5fdce07cb03fd",
+    "crop": [
+      180,
+      45,
+      455,
+      225
+    ]
+  },
+  {
+    "chapter": "menus",
+    "src": "menu-edit",
+    "file": "assets/menu-edit.jpg",
+    "en": "The Edit menu in the English interface.",
+    "pt": "Menu Editar na interface em inglês.",
+    "anchor": [
+      "Edit",
+      "Editar"
+    ],
+    "width": 355,
+    "height": 285,
+    "source_sha256": "1f9939a21d6762af5ddb595eeddc0d86896a3d29f0a939bbfd3d0cf84911de76",
+    "crop": [
+      220,
+      45,
+      575,
+      330
+    ]
+  },
+  {
+    "chapter": "menus",
+    "src": "menu-add",
+    "file": "assets/menu-add.jpg",
+    "en": "The Add menu in the English interface.",
+    "pt": "Menu Adicionar na interface em inglês.",
+    "anchor": [
+      "Add",
+      "Adicionar"
+    ],
+    "width": 164,
+    "height": 170,
+    "source_sha256": "d63766933b6da93684a804d66bb81aadbddfff40f9f7c8105016c1d4cdee1703",
+    "crop": [
+      263,
+      45,
+      427,
+      215
+    ]
+  },
+  {
+    "chapter": "menus",
+    "src": "menu-window",
+    "file": "assets/menu-window.jpg",
+    "en": "The Window menu in the English interface.",
+    "pt": "Menu Janela na interface em inglês.",
+    "anchor": [
+      "Window",
+      "Janela"
+    ],
+    "width": 270,
+    "height": 399,
+    "source_sha256": "10ff6633a7666b266b24181815b4b80ec3608dc997ed923217955ca7b7c7ce52",
+    "crop": [
+      310,
+      45,
+      580,
+      444
+    ]
+  },
+  {
+    "chapter": "menus",
+    "src": "menu-view",
+    "file": "assets/menu-view.jpg",
+    "en": "The View menu in the English interface.",
+    "pt": "Menu View na interface em inglês.",
+    "anchor": [
+      "View",
+      "View"
+    ],
+    "width": 195,
+    "height": 185,
+    "source_sha256": "b76a4638cb78c28f93f573906e506d1c1cbd682f8b85112e15c6a24355937dd9",
+    "crop": [
+      380,
+      45,
+      575,
+      230
+    ]
+  },
+  {
+    "chapter": "projects",
+    "src": "preferences-top",
+    "file": "assets/import-preferences.jpg",
+    "en": "Import preferences: split by material ID, loading hologram color and Alembic interpretation.",
+    "pt": "Preferências de importação: separação por material ID, cor do holograma e interpretação de Alembic.",
+    "anchor": null,
+    "width": 340,
+    "height": 179,
+    "source_sha256": "e025463eab31b9d52ade82bd5e23f0e7a4e4abce10e4f182740e25b4ed3bdd97",
+    "crop": [
+      27,
+      556,
+      367,
+      735
+    ]
+  },
+  {
+    "chapter": "library",
+    "src": "presets-final",
+    "file": "assets/material-library.jpg",
+    "en": "Material library with loaded previews, search, categories, favorites and page navigation. The footer explains drag-to-assign and double-click-to-add.",
+    "pt": "Biblioteca com prévias carregadas, busca, categorias, favoritos e páginas. O rodapé explica arrastar para atribuir e duplo clique para adicionar.",
+    "anchor": null,
+    "width": 1162,
+    "height": 857,
+    "source_sha256": "b05a1fd6bdbd31613501d6958cb8f829c1b7b36d8c4dffcb9d448f62a66fddb1",
+    "crop": [
+      227,
+      92,
+      1389,
+      949
+    ]
+  },
+  {
+    "chapter": "channels",
+    "src": "render-top",
+    "file": "assets/material-inputs.jpg",
+    "en": "Material family, opacity mode, Base color map, tint and vertex-color toggle. Artistic map adjustments follow below.",
+    "pt": "Família, modo de opacidade, mapa Base color, tint e vertex color. Os ajustes artísticos do mapa aparecem abaixo.",
+    "anchor": null,
+    "width": 310,
+    "height": 669,
+    "source_sha256": "a295777b37780104960a4b56c3c0cb1712f0419425ff143aa1e5fc43c1086b12",
+    "crop": [
+      1285,
+      316,
+      1595,
+      985
+    ]
+  },
+  {
+    "chapter": "opacity",
+    "src": "render-top",
+    "file": "assets/opacity-mode.jpg",
+    "en": "Opacity mode is an explicit material choice. An opaque material does not derive coverage from black RGB values.",
+    "pt": "Opacity mode é uma escolha explícita. Um material opaco não deriva cobertura de valores RGB pretos.",
+    "anchor": null,
+    "width": 310,
+    "height": 204,
+    "source_sha256": "a295777b37780104960a4b56c3c0cb1712f0419425ff143aa1e5fc43c1086b12",
+    "crop": [
+      1285,
+      316,
+      1595,
+      520
+    ]
+  },
+  {
+    "chapter": "materials",
+    "src": "material-applied",
+    "file": "assets/procedural-controls.jpg",
+    "en": "A procedural preset exposes its own triplanar mapping and main-color controls. Its construction differs from a simple texture-map material.",
+    "pt": "Um preset procedural expõe controles próprios de projeção triplanar e cor principal. Sua construção difere de um material simples com mapas.",
+    "anchor": null,
+    "width": 311,
+    "height": 669,
+    "source_sha256": "94c7b8455f62aec4157f525bf347216e12a1cf304963bfa63dd2fce05deb463e",
+    "crop": [
+      1284,
+      316,
+      1595,
+      985
+    ]
+  },
+  {
+    "chapter": "lights",
+    "src": "lighting",
+    "file": "assets/lighting-rig.jpg",
+    "en": "Lighting group controls operate on the rig. Select an individual light for its own intensity, shape and color.",
+    "pt": "Controles do grupo Lighting atuam no rig. Selecione uma luz para intensidade, formato e cor individuais.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "c6b9cbd595f2e16034d4ceac2809efd736aa60769953745105a37da1dd92f77c",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "lights",
+    "src": "light-properties",
+    "file": "assets/light-ies-gobo.jpg",
+    "en": "Individual-light settings include IES/gobo controls where supported by the selected light type.",
+    "pt": "Configurações individuais incluem IES/gobo quando compatíveis com o tipo de luz.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "66b70f409c9e9be699d9e9d59e8d6cf4d458e85396929f8bfad7ae8f9b246838",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "environment",
+    "src": "environment",
+    "file": "assets/environment-sky.jpg",
+    "en": "Environment procedural-sky controls. The remainder of this inspector scrolls to fog, HDRI and ground settings.",
+    "pt": "Controles de céu procedural em Environment. Role o inspector para fog, HDRI e chão.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "4652d45a069857aa4bc57522ea1f46a14e0289e0ff09f31c32a844afae1ff311",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "environment",
+    "src": "environment-bottom",
+    "file": "assets/environment-background.jpg",
+    "en": "HDRI background, studio backdrop and exposure controls. Background visibility is distinct from environmental illumination.",
+    "pt": "Fundo HDRI, luz de fundo de estúdio e exposição. Visibilidade do fundo é diferente de iluminação do ambiente.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "5d69f2a668f250fd9258af4aa4e15b4c81ee54b22860df86a1d92dd8e6b89219",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "post",
+    "src": "post-top",
+    "file": "assets/post-ao.jpg",
+    "en": "Scene post-processing entry points, ambient occlusion and selective bloom.",
+    "pt": "Acesso ao pós-processamento da cena, oclusão ambiente e bloom seletivo.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "6e3455bc5797611116171a68cc79422a9446c1adc537520952728084a2b67af9",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "post",
+    "src": "post-color",
+    "file": "assets/post-curves.jpg",
+    "en": "Additional post-processing controls and image curves in the scrolling inspector.",
+    "pt": "Controles adicionais e curvas de imagem no inspector com rolagem.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "5cd3ed510c0c8bf060d4f3344c9c17926127e79ac1311a5348405983a9c98f33",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "renderers",
+    "src": "renderer-verified",
+    "file": "assets/renderer-menu.jpg",
+    "en": "Viewport renderer choices. Offline render quality is configured in a different panel.",
+    "pt": "Escolhas de renderizador da viewport. A qualidade offline é configurada em outro painel.",
+    "anchor": null,
+    "width": 362,
+    "height": 291,
+    "source_sha256": "82fe7827466179890197b5bfe48cfca5acc3f93e49169efd29ff307a606a6be0",
+    "crop": [
+      18,
+      509,
+      380,
+      800
+    ]
+  },
+  {
+    "chapter": "npr",
+    "src": "npr-styles-verified",
+    "file": "assets/npr-menu.jpg",
+    "en": "NPR style selector and style-specific controls. This menu uses the neutral style names in Beta 82.",
+    "pt": "Seletor NPR e controles específicos. O menu usa os nomes neutros da Beta 82.",
+    "anchor": null,
+    "width": 362,
+    "height": 716,
+    "source_sha256": "7e922a39c4f27a9e798a93b5fcf80430a07ce1d6014add4b5935582af25fbdfc",
+    "crop": [
+      18,
+      270,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "npr",
+    "src": "unlit-verified",
+    "file": "assets/unlit-example.jpg",
+    "en": "Unlit demonstration with a constant cyan base color: the sphere loses lighting gradients while the separate floor retains its scene appearance.",
+    "pt": "Demonstração Unlit com cor ciano constante: a esfera perde os gradientes de iluminação, enquanto o piso separado mantém sua aparência na cena.",
+    "anchor": [
+      "A hand-painted game asset workflow",
+      "Fluxo para um asset hand-painted de games"
+    ],
+    "width": 1246,
+    "height": 897,
+    "source_sha256": "73f94294c2e16327b06a400ca4835f97815dc42c741e711af0a3f1673777434a",
+    "crop": [
+      18,
+      90,
+      1264,
+      987
+    ]
+  },
+  {
+    "chapter": "timeline",
+    "src": "timeline",
+    "file": "assets/timeline-controls.jpg",
+    "en": "Timeline transport, keying options and track area. This demonstration has no authored keys yet.",
+    "pt": "Transporte, opções de chave e trilhas da timeline. A demonstração ainda não possui chaves autorais.",
+    "anchor": null,
+    "width": 860,
+    "height": 278,
+    "source_sha256": "2d8f76313985a82986bc3dfcea817f05fd7b8ccc62102c6f04f67383a48af97f",
+    "crop": [
+      395,
+      710,
+      1255,
+      988
+    ]
+  },
+  {
+    "chapter": "output",
+    "src": "render-top",
+    "file": "assets/render-task.jpg",
+    "en": "Offline Image task, camera, Movie Render Queue engine, format, alpha and output size.",
+    "pt": "Tarefa offline Image, câmera, motor Movie Render Queue, formato, alpha e tamanho.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "a295777b37780104960a4b56c3c0cb1712f0419425ff143aa1e5fc43c1086b12",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "quality",
+    "src": "render-export",
+    "file": "assets/render-quality.jpg",
+    "en": "Offline quality and export controls below the output dimensions. These settings are independent of viewport navigation quality.",
+    "pt": "Qualidade offline e exportação abaixo das dimensões. Esses ajustes são independentes da qualidade de navegação.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "ab6be001678a2dd0cfc98aaced77399a0f1bb9a3664260189e5c70a56b808329",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "preferences",
+    "src": "preferences-top",
+    "file": "assets/interface-preferences.jpg",
+    "en": "Settings for import and interface aids: cube visibility/size, visual theme, opacity and gizmo size.",
+    "pt": "Configurações de importação e interface: visibilidade/tamanho do cubo, tema, opacidade e tamanho do gizmo.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "e025463eab31b9d52ade82bd5e23f0e7a4e4abce10e4f182740e25b4ed3bdd97",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "channels",
+    "src": "color-picker-center",
+    "file": "assets/color-picker.jpg",
+    "en": "Color picker with numeric color values and saved/recent color swatches. Check the display/color interpretation when matching texture colors.",
+    "pt": "Seletor com valores numéricos e amostras salvas/recentes. Confira a interpretação da cor ao comparar texturas.",
+    "anchor": [
+      "Assign the maps in a controlled order",
+      "Atribuir os mapas em uma ordem controlada"
+    ],
+    "width": 460,
+    "height": 518,
+    "source_sha256": "caf7e7028c08f97c32c754eaf36c27af7664515cfee1c1e3f6dcffdf1d64b8f4",
+    "crop": [
+      610,
+      182,
+      1070,
+      700
+    ]
+  },
+  {
+    "chapter": "camera",
+    "src": "camera-top-final",
+    "file": "assets/camera-top-final.jpg",
+    "en": "Camera controls for view locking, guides, precise position and orientation.",
+    "pt": "Controles de câmera para trava da vista, guias, posição e orientação precisas.",
+    "anchor": null,
+    "width": 362,
+    "height": 477,
+    "source_sha256": "02201896bf8b267744b01d38056dbccac334880009464280bf7c8bf78074ce13",
+    "crop": [
+      18,
+      509,
+      380,
+      986
+    ]
+  },
+  {
+    "chapter": "graph",
+    "src": "graph-frame",
+    "file": "assets/graph-frame.jpg",
+    "en": "Material Graph with the rendered preset preview, palette, graph canvas and Details panel. This view inspects the native material wrapper; Open construction exposes supported underlying construction.",
+    "pt": "Material Graph com prévia renderizada, paleta, canvas e Details. A vista inspeciona o material nativo encapsulado; Open construction abre sua construção quando compatível.",
+    "anchor": null,
+    "width": 1003,
+    "height": 710,
+    "source_sha256": "8043853429454660db403426b84261cd6256b8958c3ed0b5e5e03d1778a6ec32",
+    "crop": [
+      140,
+      82,
+      1143,
+      792
+    ]
+  }
+]
