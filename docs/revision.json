@@ -1,0 +1,16 @@
+{
+  "revision": 2,
+  "compatibleBuilds": [
+    82,
+    83
+  ],
+  "pdfPagesPerLanguage": 58,
+  "chapters": 22,
+  "figures": 29,
+  "controlTables": 24,
+  "verifiedSourceFiles": 36,
+  "pdfSHA256": {
+    "BeautyShot_Manual_EN.pdf": "1bfb7deb43da23614dde88dbd6b1a11962cf8c602c95e63cb49a1f4bd5954f6c",
+    "BeautyShot_Manual_PT-BR.pdf": "230d08f0912290148881cdb1309917a17c89236edf2482ce3c8436e27c15edda"
+  }
+}
